@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Student\\lab5.3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B343E2CE-A860-E100-ECC4-CF8E56BCB8BD}|UnitTest3\\UnitTest3.vcxproj|D:\\Student\\lab5.3\\UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B343E2CE-A860-E100-ECC4-CF8E56BCB8BD}|UnitTest3\\UnitTest3.vcxproj|solutionrelative:UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88F320BC-5799-4CF4-863D-E8DBC23DDE25}|lab5.3\\lab5.3.vcxproj|D:\\Student\\lab5.3\\lab5.3\\lab5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{88F320BC-5799-4CF4-863D-E8DBC23DDE25}|lab5.3\\lab5.3.vcxproj|solutionrelative:lab5.3\\lab5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD38CB7-F61B-0DD9-21F8-A1EBB12BD6C6}|5.3test\\5.3test.vcxproj|D:\\Student\\lab5.3\\5.3test\\5.3test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FDD38CB7-F61B-0DD9-21F8-A1EBB12BD6C6}|5.3test\\5.3test.vcxproj|solutionrelative:5.3test\\5.3test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD38CB7-F61B-0DD9-21F8-A1EBB12BD6C6}|5.3test\\5.3test.vcxproj|D:\\Student\\lab5.3\\5.3test\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FDD38CB7-F61B-0DD9-21F8-A1EBB12BD6C6}|5.3test\\5.3test.vcxproj|solutionrelative:5.3test\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,37 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "pch.cpp",
-              "DocumentMoniker": "D:\\Student\\lab5.3\\5.3test\\pch.cpp",
-              "RelativeDocumentMoniker": "5.3test\\pch.cpp",
-              "ToolTip": "D:\\Student\\lab5.3\\5.3test\\pch.cpp",
-              "RelativeToolTip": "5.3test\\pch.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UnitTest3.cpp",
+              "DocumentMoniker": "D:\\Student\\lab5.3\\UnitTest3\\UnitTest3.cpp",
+              "RelativeDocumentMoniker": "UnitTest3\\UnitTest3.cpp",
+              "ToolTip": "D:\\Student\\lab5.3\\UnitTest3\\UnitTest3.cpp",
+              "RelativeToolTip": "UnitTest3\\UnitTest3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-12T12:24:06.532Z"
+              "WhenOpened": "2026-10-13T09:15:57.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "5.3test.cpp",
-              "DocumentMoniker": "D:\\Student\\lab5.3\\5.3test\\5.3test.cpp",
-              "RelativeDocumentMoniker": "5.3test\\5.3test.cpp",
-              "ToolTip": "D:\\Student\\lab5.3\\5.3test\\5.3test.cpp",
-              "RelativeToolTip": "5.3test\\5.3test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-12T12:18:06.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "lab5.3.cpp",
               "DocumentMoniker": "D:\\Student\\lab5.3\\lab5.3\\lab5.3.cpp",
               "RelativeDocumentMoniker": "lab5.3\\lab5.3.cpp",
               "ToolTip": "D:\\Student\\lab5.3\\lab5.3\\lab5.3.cpp",
               "RelativeToolTip": "lab5.3\\lab5.3.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-12T11:47:09.596Z",
               "EditorCaption": ""
